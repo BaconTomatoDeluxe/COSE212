@@ -4,4 +4,4 @@ Instructor: Prof. Jihyeok Park
 
 ## References
 
-- [Course Page]([https://plrg.korea.ac.kr/courses/cose212/2023_2/])
+- [Course Page](https://plrg.korea.ac.kr/courses/cose212/2023_2/)
